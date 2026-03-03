@@ -1,0 +1,16 @@
+prompts/
+  for-beginner-entreprnuers/
+    project-planning-assistant/
+      I am planning a [YOUR_PROJECT] for the first time. Make me a [NUMBER_OF_STEPS] outline to help orientate making this project. Can you also give a quick tip at the end./
+  for-content-creators/
+    content-calender-generator/
+      I am a [TYPE_OF_CONTENT_CREATOR]. Can you make me a content calendar with [TYPE_OF_CONTENT] for the month of [MONTH]. Here is an example of what I want in the calendar [EXAMPLE_CALENDER]. I will fill in what I want to do for the content later./
+  for-students/
+    ai-tutor/
+      I am trying better understand [TOPIC]. Give me a [TIME_LENGTH] lesson on [SUBTOPIC] that has [CONTENT_REQUIREMENT]. [LEARNING_GOAL] Give me [NUMBER] [PROBLEM_TYPE] to check comprehension of the lesson./
+  for-event-planners/
+    flyer-generator/
+      I am trying to make a flyer to announce a [CLUB/EVENT]. Can you make a flyer that looks [FLYER_LOOK] for [Target_Audience] and is [FLYER_SIZE] that has [FLYER_CONTENT] that I can possibly print out?/
+  for-test-takers/
+    study-quiz-generator
+      I am a [GRADE_YEAR] trying to better understand [TOPIC]. Can you give me [NUMBER] practice problems, [TYPE_OF_PROBLEMS] without an answer key. Can you also give a quick tip at the end. By the end of this I want to be able confidently teach someone this topic./
